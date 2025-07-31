@@ -38,6 +38,8 @@ jobs:
         exclude:
           # Remove some configurations from the build matrix to reduce CI time.
           # See https://github.com/marketplace/actions/setup-julia-environment
+          - os: macos-latest
+            arch: x64
           - os: windows-latest
             arch: aarch64
     steps:
