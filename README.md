@@ -1,6 +1,6 @@
 # SymbolConverters.jl
 
-[![CI](https://github.com/DarrylGamroth/SymbolConverters.jl/actions/workflows/CI.yml/badge.svg)](https://github.com/DarrylGamroth/SymbolConverters.jl/actions/workflows/CI.yml)
+[![CI](https://github.com/DarrylGamroth/SymbolConverters.jl/actions/workflows/CI.yml/badge.svg)](https://github.com/DarrylGamroth/SymbolConverters.jl/actions/workflows/ci.yml)
 [![codecov](https://codecov.io/gh/DarrylGamroth/SymbolConverters.jl/branch/main/graph/badge.svg)](https://codecov.io/gh/DarrylGamroth/SymbolConverters.jl)
 
 SymbolConverters.jl is a Julia package designed to convert a `Symbol` to an `AbstractString` without allocations.
